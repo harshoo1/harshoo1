@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Kumar Sharma
-- 👀 I’m interested in Making machines and softwre to help humen in positive development.
+- 👀 I’m interested in Making Machines and Softwre to Help Humen in positive development.
 - 🌱 I’m currently learning DATA SCIENCE AND MACHINE LEARNING 
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me GMAIL-> harshsharma11d@gmail.com
