@@ -1,7 +1,7 @@
-- 👋 Hi, I’m HARSH KUMAR SHARMA
-- 👀 I’m interested in MAKING MACHINES AND SOFTWARES TO HELP HUMEN IN POSITIVE DEVELOPMENT.
+- 👋 Hi, I’m Harsh Kumar Sharma
+- 👀 I’m interested in Making machines and softwre to help humen in positive development.
 - 🌱 I’m currently learning DATA SCIENCE AND MACHINE LEARNING 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me GMAIL-> harshsharma11d@gmail.com
 
 <!---
